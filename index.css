@@ -1,5 +1,5 @@
 body{
-    background-image: url(background.jpg);
+     background-image: linear-gradient(rgb(68, 44, 86),rgb(41, 21, 108),rgb(26, 33, 133));
 }
 div{
     background-color: #444444;
